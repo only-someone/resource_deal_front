@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:resource_deal_front" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="536ee99e-38e5-441f-9773-d056e5865579" name="Default Changelist" comment="" />
+    <list default="true" id="536ee99e-38e5-441f-9773-d056e5865579" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dizital/.idea/Dizital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/css/style_login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/js/script_login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csscode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cssdemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid system.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/blog-classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/person_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/blog-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/have_buy_resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/bid_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/all_resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/shop-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/resource_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/recommend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/first.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +59,39 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1j4fkyGGHM61XA15YjUojJYYRFR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.grid system.html">
+    <configuration name="cssdemo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap/cssdemo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="grid system.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap/grid system.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.grid system.html" />
+        <item itemvalue="JavaScript Debug.cssdemo.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,17 +101,109 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603068431199</updated>
-      <workItem from="1603068433442" duration="2117000" />
+      <workItem from="1603068433442" duration="2724000" />
+      <workItem from="1603074893949" duration="10287000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="86" y="182" key="#Deployment" timestamp="1603077505601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="86" y="182" key="#Deployment/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603077505601" />
+    <state x="45" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603084626825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="45" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603084626825" />
+    <state width="1167" height="347" key="GridCell.Tab.0.bottom" timestamp="1603086040079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086040079" />
+    <state width="1167" height="347" key="GridCell.Tab.0.center" timestamp="1603086040079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.0.center/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086040079" />
+    <state width="1167" height="347" key="GridCell.Tab.0.left" timestamp="1603086040079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.0.left/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086040079" />
+    <state width="1167" height="347" key="GridCell.Tab.0.right" timestamp="1603086040079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.0.right/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086040079" />
+    <state width="1167" height="347" key="GridCell.Tab.1.bottom" timestamp="1603086039880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039880" />
+    <state width="1167" height="347" key="GridCell.Tab.1.center" timestamp="1603086039880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039880" />
+    <state width="1167" height="347" key="GridCell.Tab.1.left" timestamp="1603086039880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039880" />
+    <state width="1167" height="347" key="GridCell.Tab.1.right" timestamp="1603086039880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039880" />
+    <state width="1167" height="347" key="GridCell.Tab.2.bottom" timestamp="1603086039881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039881" />
+    <state width="1167" height="347" key="GridCell.Tab.2.center" timestamp="1603086039881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.2.center/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039881" />
+    <state width="1167" height="347" key="GridCell.Tab.2.left" timestamp="1603086039880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.2.left/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039880" />
+    <state width="1167" height="347" key="GridCell.Tab.2.right" timestamp="1603086039881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.2.right/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039881" />
+    <state width="1167" height="347" key="GridCell.Tab.3.bottom" timestamp="1603086039881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.3.bottom/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039881" />
+    <state width="1167" height="347" key="GridCell.Tab.3.center" timestamp="1603086039881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.3.center/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039881" />
+    <state width="1167" height="347" key="GridCell.Tab.3.left" timestamp="1603086039881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.3.left/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039881" />
+    <state width="1167" height="347" key="GridCell.Tab.3.right" timestamp="1603086039881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="347" key="GridCell.Tab.3.right/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603086039881" />
+    <state x="92" y="168" key="SettingsEditor" timestamp="1603084733516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="168" key="SettingsEditor/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603084733516" />
     <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1603069374697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603069374697" />
+    <state x="569" y="156" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603076774437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="156" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-2560.-145.2048.1112@0.0.1920.1040" timestamp="1603076774437" />
   </component>
 </project>
