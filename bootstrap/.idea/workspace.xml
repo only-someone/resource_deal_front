@@ -20,32 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="536ee99e-38e5-441f-9773-d056e5865579" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Dizital/.idea/Dizital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dizital/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dizital/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dizital/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dizital/css/style_login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dizital/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dizital/js/script_login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dizital/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csscode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssdemo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid system.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/all_bids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/all_users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/city_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/enterprise_bid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/nva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dizital/search_result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/blog-classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/person_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/blog-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/have_buy_resources.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/bid_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dizital/have_buy_resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/have_buy_resources.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dizital/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/all_resources.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/shop-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/resource_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/recommend.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dizital/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Dizital/team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/first.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
